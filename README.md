@@ -5,4 +5,4 @@ Project 1: A molecular dynamics (MD) simulation of argon using a Lennard-Jones p
 
 Project 2: A variational quantum Monte Carlo (VQMC) simulation of the helium atom.
 
-Project 3: A lattice boltzmann method fluid simulation.
+Project 3: A lattice boltzmann method (LBM) fluid simulation.
