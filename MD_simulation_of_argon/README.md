@@ -27,10 +27,10 @@ from the initialization script.
 for the MSc course Computation Physics at Delft University of Technology.
 
 
-
-
 Computational Physics, MSc Applied Physics 2020
+
 Delft University of Technology
+
 Date: 01/04/2020
 
 
